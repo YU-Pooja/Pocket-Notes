@@ -62,7 +62,7 @@ This React application is designed for creating, selecting, and displaying notes
 1. Install dependencies: `npm install`
 2. Run the application: `npm start`
 
-Feel free to reach out for any further clarification or assistance.
+Feel free to reach out for any further clarification or assistance using mailID - pooja2000yu@gmail.com.
 
 ## Getting Started
 Follow these steps to set up and run the Notes Application on your local machine.
